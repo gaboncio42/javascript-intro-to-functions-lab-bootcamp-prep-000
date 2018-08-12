@@ -17,12 +17,13 @@ function logWhisper(string) {
 var a = 'hello';
 var b = 'HELLO';
 var c = "I love you, Grandma";
+
 function sayHiToGrandma(string) {
-  if (a) {
+  if ('a') {
     return "I can't hear you!";
-} else (b) {
+  } else ('b') {
     return "YES INDEED!";
-} else (c) {
-  return "I love you, too.";
+  } else ('c') {
+    return "I love you, too.";
+  }
 }
-}  
