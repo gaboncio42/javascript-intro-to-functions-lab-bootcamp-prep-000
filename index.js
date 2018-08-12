@@ -18,6 +18,10 @@ var hello = "I can't hear you!";
 var HELLO = "YES INDEED!";
 
 function sayHiToGrandma(string) {
-  if (hello)
+  if (hello) {
+    return "I can't hear you!";
+  } else (HELLO) {
+    return "YES INDEED!";
+  }
 }
   
