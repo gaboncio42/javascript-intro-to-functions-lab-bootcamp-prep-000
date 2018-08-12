@@ -18,7 +18,7 @@ var a = 'hello';
 var b = "hello".toUpperCase();
 var c = "I love you, Grandma";
 
-function sayHiToGrandma(a, b, c) {
+function sayHiToGrandma(string) {
   if (a) {
     return "I can't hear you!";
   } else if ('hello'.toUpperCase()) {
