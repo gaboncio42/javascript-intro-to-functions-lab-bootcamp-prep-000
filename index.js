@@ -21,9 +21,9 @@ var c = "I love you, Grandma";
 function sayHiToGrandma(string) {
   if (a) {
     return "I can't hear you!";
-  } else (b) {
+  } else if (b) {
     return "YES INDEED!";
-  } else (c) {
+  } else if (c) {
     return "I love you, too.";
   }
 }
