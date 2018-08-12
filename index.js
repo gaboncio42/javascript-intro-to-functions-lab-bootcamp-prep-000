@@ -20,8 +20,7 @@ var HELLO = "YES INDEED!";
 function sayHiToGrandma(string) {
   if (hello) {
     return "I can't hear you!";
-  } else (HELLO) {
+  } else (HELLO) 
     return "YES INDEED!";
-  }
 }
   
