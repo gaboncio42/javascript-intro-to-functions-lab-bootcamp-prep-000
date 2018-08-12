@@ -20,6 +20,6 @@ var c = "I love you, Grandma.";
 
 function sayHiToGrandma(string) {
   if (a) {
-    return 
+    return "I can't hear you"
   }
 }
