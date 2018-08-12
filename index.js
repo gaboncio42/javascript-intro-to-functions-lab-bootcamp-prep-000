@@ -21,7 +21,7 @@ var c = "I love you, Grandma";
 function sayHiToGrandma(a, b, c) {
   if (a) {
     return "I can't hear you!";
-  } else if (b) {
+  } else if ('hello'.toUpperCase()) {
     return "YES INDEED!";
   } else if (c) {
     return "I love you, too.";
